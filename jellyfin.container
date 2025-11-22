@@ -5,7 +5,7 @@ Volume=cache:/cache:Z
 Volume=media:/media:Z
 PublishPort=8096:8096
 
-Network=default.network
+Network=default-network.network
 
 [Service]
 Restart=always

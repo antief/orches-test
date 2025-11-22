@@ -2,7 +2,7 @@
 Description=Default Network
 
 [Network]
-NetworkName=default
+NetworkName=default-network
 
 [Install]
 WantedBy=default.target
