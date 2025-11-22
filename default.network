@@ -1,9 +1,0 @@
-[Unit]
-Description=Default Network
-
-[Network]
-NetworkName=default
-
-[Install]
-WantedBy=default.target
-
